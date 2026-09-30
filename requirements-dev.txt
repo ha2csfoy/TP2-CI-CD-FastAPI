@@ -1,4 +1,4 @@
--r app/requirements.txt
+-r requirements.txt
 pytest
 httpx
 pytest-cov
